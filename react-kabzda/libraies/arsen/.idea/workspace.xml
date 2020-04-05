@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="92756d82-937b-4873-bf5b-6af2ab19d4bc" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1ZJagTCK6PYmkooad7bxLNkniBd" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.standard" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.standard" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.standard" value="" />
+    <property name="typescript.add.unambiguous.imports.on.the.fly" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Program Files\IT\project\arsen\src" />
+      <recent name="C:\Program Files\IT\project\arsen" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="92756d82-937b-4873-bf5b-6af2ab19d4bc" name="Default Changelist" comment="" />
+      <created>1584381288290</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1584381288290</updated>
+      <workItem from="1584381292200" duration="1305000" />
+      <workItem from="1584382951256" duration="105000" />
+      <workItem from="1584384146243" duration="404000" />
+      <workItem from="1584433989453" duration="2852000" />
+      <workItem from="1584452669092" duration="4630000" />
+      <workItem from="1584459006027" duration="1362000" />
+      <workItem from="1584544110757" duration="5665000" />
+      <workItem from="1584551225662" duration="5476000" />
+      <workItem from="1584558001994" duration="951000" />
+      <workItem from="1584559795691" duration="3035000" />
+      <workItem from="1584562928773" duration="2076000" />
+      <workItem from="1584602783313" duration="1459000" />
+      <workItem from="1584608465156" duration="2664000" />
+      <workItem from="1584615458506" duration="2635000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="333" y="173" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1584561845180">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="333" y="173" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1366.728@0.0.1366.728" timestamp="1584561845180" />
+    <state x="742" y="450" key="save.project.as.template.dialog" timestamp="1584562175336">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="742" y="450" key="save.project.as.template.dialog/0.0.1366.728@0.0.1366.728" timestamp="1584562175336" />
+    <state x="483" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1584563643082">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="483" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1584563643082" />
+  </component>
+</project>
