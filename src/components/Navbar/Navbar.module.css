@@ -1,17 +1,25 @@
 .nav{
     width: 110px;
     grid-area: n;
-    background-color:green;
+    background-color:#AF9DFF;
     padding: 20px;
- }
-
-.item a{
-    color: whitesmoke ;
+}
+.item{
+    display: block;
+}
+.item{
+    color: gray;
     text-decoration: none;
+}
+
+.active {
+    color: blue;
+}
+
+.a{
+color: blue ;
 
 }
 
-.item a .active{
- color: gold;
 
-}
+

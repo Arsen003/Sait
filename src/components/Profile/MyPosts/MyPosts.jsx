@@ -5,32 +5,33 @@ import Post from './Post/Post';
 const MyPosts = (props) => {
     return (
         <div className={s.content}>
-
-            <div></div>
             <Post/>
 
-            <div className={s.item}>My Posts
-                <div className={s.item}></div>
-                <div><textarea></textarea></div>
-                <button>Add post</button>
+            <div>
+                <div>My Posts</div>
+                <div className={s.message}>
+                    <textarea></textarea>
+                    <button className={s.btn}>Add post</button>
+                </div>
             </div>
 
-            <div className='item'>
-                <img src='https://im0-tub-ru.yandex.net/i?id=ccaf7c26cc242d83cfdb8ec97ecb8da4&n=13'/>
-            </div>
-            <div>post 1</div>
-            <span>like</span>
-            <div className="item">
-            </div>
-
-            <div className='item'>
-                <img src='https://im0-tub-ru.yandex.net/i?id=ccaf7c26cc242d83cfdb8ec97ecb8da4&n=13'/>
-            </div>
-            <div>post 2</div>
-            <span>like</span>
-            <div className="item">
+            <div className={s.item}>
+                <div>
+                    <img src='https://im0-tub-ru.yandex.net/i?id=ccaf7c26cc242d83cfdb8ec97ecb8da4&n=13'
+                         className={s.img}/>
+                    <span>post 1</span>
+                </div>
+                <span>like</span>
             </div>
 
+            <div className={s.item}>
+                <div>
+                    <img src='https://im0-tub-ru.yandex.net/i?id=ccaf7c26cc242d83cfdb8ec97ecb8da4&n=13'
+                         className={s.img}/>
+                    <span>post 2</span>
+                </div>
+                <span>like</span>
+            </div>
 
             <div className={s.posts}>
                 <post message='Hi, are you?' Likescount='0'/>

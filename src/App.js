@@ -8,8 +8,6 @@ import {BrowserRouter, Route} from "react-router-dom";
 
 
 const App = () => {
-   let Dialogs = () =><Dialogs/>;
-    let Profile= () => <Profile/>;
     return (
             <BrowserRouter>
                 <div className='app-wrapper'>

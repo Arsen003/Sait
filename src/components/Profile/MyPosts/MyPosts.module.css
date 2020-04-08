@@ -1,7 +1,16 @@
-.post{
-    color: white;
+
+.Mypost1{
+    color: lightgray;
 }
 
 .item{
-    color: gold;
+    color: yellow;
+}
+.img{
+    width: 4rem;
+    height: 4rem;
+    border-radius: 50%;
+}
+.message{
+    display: flex;
 }
