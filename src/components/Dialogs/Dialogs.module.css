@@ -8,26 +8,22 @@
     padding: 4px;
     display: grid;
     grid-template-columns: 1fr 15fr;
-   color: whitesmoke;
+    color: whitesmoke;
 }
 
 .dialogsItems .dialogs {
     color: gold;
     padding: 10px;
- }
+}
 
 .messages {
     padding: 10px;
 }
 
 .dialogsItems .active{
-   color: #364EFF;
+    color: #364EFF;
 
 }
 
-
-
 .messages.message {
-
-
 }

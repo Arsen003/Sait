@@ -4,13 +4,13 @@ import Post from './Post/Post';
 
 const MyPosts = (props) => {
     return (
-        <div className={s.content}>
-            <Post/>
-
+        <div className={s.postsBlock}>
+            <h3>My posts</h3>
             <div>
-                <div>My Posts</div>
                 <div className={s.message}>
-                    <textarea></textarea>
+                    <div>
+                        <textarea></textarea>
+                    </div>
                     <button className={s.btn}>Add post</button>
                 </div>
             </div>
@@ -19,7 +19,7 @@ const MyPosts = (props) => {
                 <div>
                     <img src='https://im0-tub-ru.yandex.net/i?id=ccaf7c26cc242d83cfdb8ec97ecb8da4&n=13'
                          className={s.img}/>
-                    <span>post 1</span>
+                    <span>Hi, are you?</span>
                 </div>
                 <span>like</span>
             </div>
@@ -30,7 +30,7 @@ const MyPosts = (props) => {
                          className={s.img}/>
                     <span>post 2</span>
                 </div>
-                <span>like</span>
+                <span>like 0</span>
             </div>
 
             <div className={s.posts}>
