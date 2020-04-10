@@ -1,5 +1,5 @@
 .app-wrapper {
-    margin: 80px ;
+     margin: 90px ;
     display: grid;
     width: 1400px;
     grid-template-areas:
@@ -11,7 +11,7 @@
 }
 
 .app-wrapper-content{
-  color: white;
+ color: black;
   width: 1300px;
   grid-area: c;
   background-color:#8E8BD3;
@@ -19,19 +19,19 @@
 
 .header img{
     width: 88px;
-    background-color: gray;
+    background-color:white ;
 }
 
 
 .item img{
     width: 5rem;
     height: 5rem;
-    border-radius: 50%;
+    border-radius: 40px;
     display: block;
 }
 
 .nav {
-    width: 190px;
+    width: 15px;
     grid-area: n;
     background-color: blue;
 }
@@ -39,15 +39,19 @@
 .content{
     width: 1300px;
     grid-area:  c;
-    background-color: white ;
+    background-color: black ;
 }
 
-.post{
+.posts{
+    width: 250px;
     color: blue;
 }
 
 
 .span like {
     width: 15rem;
-
 }
+
+
+
+

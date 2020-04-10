@@ -1,24 +1,24 @@
 
 .Mypost1{
-    color: lightgray;
+    color: gray;
 }
 
 .item{
-    color: yellow;
+    padding: 10px;
+    color: gold;
 }
 .img{
-    width: 4rem;
+    width: 5rem;
     height: 4rem;
-    border-radius: 50%;
-}
-.message{
-    display: flex;
+    border-radius: 40%;
 }
 
+
 .postsBlock {
-   padding: 10px;
+   padding: 15px;
  }
 
 .posts{
-    margin-top: 10px
+    margin-top: 15px;
 }
+
