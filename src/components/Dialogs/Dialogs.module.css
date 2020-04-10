@@ -7,7 +7,7 @@
 .dialog {
     padding: 4px;
     display: grid;
-    grid-template-columns: 1fr 15fr;
+    grid-template-columns: 1fr 2fr;
     color: whitesmoke;
 }
 
@@ -17,7 +17,7 @@
 }
 
 .messages {
-    padding: 10px;
+    padding: 0 10px;
 }
 
 .dialogsItems .active{
